@@ -16,4 +16,4 @@ This is a Unity package easily installing glTFFast and Draco
 
 2. Enter the following URL: `https://github.com/reubenkcoutinho/glTFFastInstaller.git`
 
-3. Once installed, it will ask yif you want to install glTFFast
+3. Once installed, it will ask if you want to install glTFFast

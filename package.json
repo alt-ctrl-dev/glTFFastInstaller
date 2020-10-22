@@ -1,0 +1,15 @@
+{
+  "name": "com.reubenkcoutinho.gltffastinstaller",
+  "version": "1.0.0",
+  "displayName": "glTFFastInstaller",
+  "description": "An easier way to install glTFFast",
+  "unity": "2019.3",
+  "keywords": [
+    "install",
+    "glTFFast"
+  ],
+  "author": {
+    "name": "Reuben Coutinho",
+    "email": "reuben.coutinho@live.com"
+  }
+}
